@@ -22,9 +22,8 @@
 
 </body>
 </html>
-
---- 
-
+ 
+```
 # Backend
 
 - The server side of a website is known as Backend.
